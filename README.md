@@ -17,20 +17,24 @@ My experience spans WordPress development, custom plugins, API integration, brow
 
 ## Featured Projects
 
-### 1. WordPress Status & Redirect Automation
+### 1. [WordPress Status & Redirect Automation](https://github.com/kaiz234/qhaiz-portfolio/tree/main/projects/wordpress-status-redirect-automation)
+
 Automating WordPress event-page lifecycle tasks by setting completed pages to Draft, creating missing Yoast SEO redirects, and verifying frontend behaviour.
 
 **Technologies:** Python, Playwright, WordPress, Yoast SEO, GitHub Actions
 
+**Documentation:** Project overview, reusable automation template, test plan, and test results.
+
 ### 2. [Browser Automation & Testing](https://github.com/kaiz234/browser-automation-testing)
 
-Automated browser tests using Python, Playwright, and pytest to validate login flows, product navigation, shopping cart behaviour, and error handling. Includes GitHub Actions CI to run tests automatically on pushes and pull requests.
+Automated browser tests using Python, Playwright, and pytest to validate login flows, product navigation, shopping cart behaviour, and error handling. Includes a GitHub Actions workflow for automated test execution on pushes and pull requests.
 
 **Technologies:** Python, Playwright, pytest, Chromium, GitHub Actions
 
-**Test Results:** 4 local tests passed in 2.65 seconds.
+**Local Test Results:** 4 tests passed in 2.65 seconds.
 
 ### 3. Application Development & API Integration
+
 Developing and maintaining WordPress functionality, custom plugins, and integrations with external services.
 
 **Technologies:** PHP, JavaScript, WordPress, REST APIs
@@ -46,4 +50,3 @@ Previously worked as a Senior Web Developer and Web Developer at BAC, focusing o
 
 - **GitHub:** [kaiz234](https://github.com/kaiz234)
 - **LinkedIn:** [Ahmad Nur Qhaiz B Jalalludin](https://www.linkedin.com/in/ahmad-nur-qhaiz-jalalludin-1992b315a/)
-
