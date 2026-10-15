@@ -22,10 +22,13 @@ Automating WordPress event-page lifecycle tasks by setting completed pages to Dr
 
 **Technologies:** Python, Playwright, WordPress, Yoast SEO, GitHub Actions
 
-### 2. Browser Automation & Testing
-Applying browser automation to execute test steps, inspect outcomes, and troubleshoot web application behaviour.
+### 2. [Browser Automation & Testing](https://github.com/kaiz234/browser-automation-testing)
 
-**Technologies:** Python, Playwright, Selenium
+Automated browser tests using Python, Playwright, and pytest to validate login flows, product navigation, shopping cart behaviour, and error handling. Includes GitHub Actions CI to run tests automatically on pushes and pull requests.
+
+**Technologies:** Python, Playwright, pytest, Chromium, GitHub Actions
+
+**Test Results:** 4 local tests passed in 2.65 seconds.
 
 ### 3. Application Development & API Integration
 Developing and maintaining WordPress functionality, custom plugins, and integrations with external services.
